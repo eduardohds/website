@@ -129,7 +129,6 @@ var firstColumn = 0;
             document.body.appendChild(popBox);
         }
 
-
         function removePopupBox() {
             var popBox = document.getElementById("TTPopupBox");
             popBox.parentNode.removeChild(popBox);
